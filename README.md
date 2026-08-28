@@ -50,7 +50,7 @@ Visual analysis of lifestyle and metabolic risk factors across 9,065 adults, com
 
 ### 📊 GitHub Stats
 
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulUmar1005&show_icons=true&theme=default)
+![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulUmar1005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
