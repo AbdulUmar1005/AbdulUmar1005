@@ -15,7 +15,7 @@ I like problems that involve numbers, ambiguity, and a business decision at the 
 - 💼 Previously: Student Manager at Aramark, Procurement Analyst at Fineway International
 - 🔍 Currently looking for: Business Analyst / Data Analyst / Operations Analyst / Supply Chain Analyst roles
 - 🌱 Currently sharpening: SQL, Python, machine learning, and dashboarding
-- 📫 Reach me: [LinkedIn](#) · [Email](#)
+- 📫 Reach me: https://www.linkedin.com/in/abdulrahman-umar-analyst/ · abdulrahmanumar1005@gmail.com
 
 ---
 
