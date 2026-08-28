@@ -34,7 +34,7 @@ I like problems that involve numbers, ambiguity, and a business decision at the 
 
 ### 📌 Featured Projects
 
-**[AI-Driven Airline Fare Forecasting & Affordability Segmentation](#)**
+https://github.com/AbdulUmar1005/Airline-fare-forecasting/blob/main/README.md
 Group project predicting airline fares and segmenting affordability using multiple regression models. Compared Linear Regression, Random Forest, XGBoost, and AdaBoost; Random Forest was the top performer with an R² of 0.849. Includes hyperparameter tuning and feature importance analysis.
 `Python` `Scikit-learn` `XGBoost` `Random Forest`
 
