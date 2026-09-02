@@ -48,4 +48,11 @@ Visual analysis of lifestyle and metabolic risk factors across 9,065 adults, com
 
 ---
 
+### 📄 Publications
+
+**[Thermal Analysis of Electric Motor for Electric Vehicle](https://www.sae.org/papers/thermal-analysis-electric-motor-electric-vehicle-2023-01-0532)**
+Published technical paper, SAE International (2023-01-0532)
+
+---
+
 <p align="center"><i>Open to full time opportunities starting immediately.</i></p>
