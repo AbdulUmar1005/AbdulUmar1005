@@ -38,7 +38,7 @@ https://github.com/AbdulUmar1005/Airline-fare-forecasting/blob/main/README.md
 Group project predicting airline fares and segmenting affordability using multiple regression models. Compared Linear Regression, Random Forest, XGBoost, and AdaBoost; Random Forest was the top performer with an R² of 0.849. Includes hyperparameter tuning and feature importance analysis.
 `Python` `Scikit-learn` `XGBoost` `Random Forest`
 
-**[Heart Attack Risk Prediction](#)**
+https://github.com/AbdulUmar1005/heart-attack-risk-prediction/blob/main/README.md
 Merged two healthcare datasets into a single 9,065 row dataset, then applied correlation analysis and non-collinearity filtering to isolate 26 independent risk attributes across demographic, clinical, lifestyle, and medical history categories. Proposal for a Logistic Regression / Decision Tree / Random Forest comparison to predict heart attack risk.
 `Python` `Predictive Modeling` `Healthcare Analytics`
 
