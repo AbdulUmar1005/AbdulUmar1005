@@ -42,7 +42,7 @@ https://github.com/AbdulUmar1005/heart-attack-risk-prediction/blob/main/README.m
 Merged two healthcare datasets into a single 9,065 row dataset, then applied correlation analysis and non-collinearity filtering to isolate 26 independent risk attributes across demographic, clinical, lifestyle, and medical history categories. Proposal for a Logistic Regression / Decision Tree / Random Forest comparison to predict heart attack risk.
 `Python` `Predictive Modeling` `Healthcare Analytics`
 
-**[Diabetes Risk Data Visualization](#)**
+https://github.com/AbdulUmar1005/diabetes-risk-data-visualization/blob/main/README.md
 Visual analysis of lifestyle and metabolic risk factors across 9,065 adults, comparing diabetic and non-diabetic groups on sitting hours, sleep, BMI, blood pressure, and activity levels. Delivered as an R Markdown report with business recommendations for healthcare communication and prevention strategy.
 `R` `ggplot2` `Data Visualization`
 
