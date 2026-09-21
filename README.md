@@ -34,7 +34,7 @@ I like problems that involve numbers, ambiguity, and a business decision at the 
 
 ### 📌 Featured Projects
 
-https://github.com/AbdulUmar1005/Procurement-Spend-Analysis
+[Procurement Spend Analysis](https://github.com/AbdulUmar1005/Procurement-Spend-Analysis)
 Analyzed $1.24M in procurement spend across 500 transactions; identified 67.5% supplier concentration risk in top 3 vendors and $5K price variance on repeat software license purchases, surfacing consolidation and contract renegotiation opportunities.
 
 **[AI-Driven Airline Fare Forecasting & Affordability Segmentation](https://github.com/AbdulUmar1005/Airline-fare-forecasting)**
