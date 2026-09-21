@@ -35,6 +35,7 @@ I like problems that involve numbers, ambiguity, and a business decision at the 
 ### 📌 Featured Projects
 
 https://github.com/AbdulUmar1005/Procurement-Spend-Analysis
+Analyzed $1.24M in procurement spend across 500 transactions; identified 67.5% supplier concentration risk in top 3 vendors and $5K price variance on repeat software license purchases, surfacing consolidation and contract renegotiation opportunities.
 
 **[AI-Driven Airline Fare Forecasting & Affordability Segmentation](https://github.com/AbdulUmar1005/Airline-fare-forecasting)**
 Group project predicting airline fares and segmenting affordability using multiple regression models. Compared Linear Regression, Random Forest, XGBoost, and AdaBoost; Random Forest was the top performer with an R² of 0.849. Includes hyperparameter tuning and feature importance analysis.
